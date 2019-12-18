@@ -1,0 +1,9 @@
+1- Quand l'utilisateur se connecte pour la premiere fois, il doit changer de mot de passe
+2- Le mot de pase doit etre crypté dans la base de donnees(md5).
+3-
+
+view -> indexUtilisateur
+Ajouter Gestion utilisateur qui doit afficher indexUtilisateur
+qui contient l'image dans le dossier finance
+
+model -> creer modelOperation

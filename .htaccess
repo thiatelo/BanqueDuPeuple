@@ -1,0 +1,7 @@
+
+RewriteEngine on 
+RewriteRule ^acceuil$ view /IndexFinance.php?view=acceuil
+
+RewriteRule ^compte$ view /IndexFinance.php?view=compte
+RewriteRule ^client$ view /IndexFinance.php?view=client
+RewriteRule ^utilisateur$ view /IndexFinance.php?view=utilisateur
